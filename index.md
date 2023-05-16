@@ -1,4 +1,4 @@
-# The Art of Metalama
+
 
 This is a collection of articles on both how to use and how to get the best out of Metalama.
 
